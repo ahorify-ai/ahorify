@@ -675,5 +675,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-## activar venv:    source ahorify_env/bin/activate
+## activar venv:    source venv_env/bin/activate
 ## activar st:      streamlit run main.py
